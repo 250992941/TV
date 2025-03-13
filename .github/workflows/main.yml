@@ -5,6 +5,7 @@ on:
     - cron: '0 00 * * *'
     - cron: '0 10 * * *'
     - cron: '0 13 * * *'
+    - cron: '0 17 * * *'
   workflow_dispatch:
     branches:
       - master
