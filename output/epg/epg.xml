@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250424071826 +0800">
+<tv date="20250424110029 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -9528,69 +9528,6 @@
 	<programme channel="金鹰纪实" start="20250424235500 +0800" stop="20250424235900 +0800">
 		<title lang="zh">看世界</title>
 	</programme>
-	<channel id="长沙政法">
-		<display-name lang="zh">长沙政法</display-name>
-	</channel>
-	<programme channel="长沙政法" start="20250424000000 +0800" stop="20250424002500 +0800">
-		<title lang="zh">政法报道</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424002500 +0800" stop="20250424010000 +0800">
-		<title lang="zh">知音人间</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424010000 +0800" stop="20250424013500 +0800">
-		<title lang="zh">养生学+</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424013500 +0800" stop="20250424021700 +0800">
-		<title lang="zh">观点致胜</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424021700 +0800" stop="20250424043000 +0800">
-		<title lang="zh">夜线</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424043000 +0800" stop="20250424064200 +0800">
-		<title lang="zh">政法报道</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424064200 +0800" stop="20250424075000 +0800">
-		<title lang="zh">买房帮帮帮</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424075000 +0800" stop="20250424095000 +0800">
-		<title lang="zh">夜线</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424095000 +0800" stop="20250424105000 +0800">
-		<title lang="zh">8点开讲</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424105000 +0800" stop="20250424124000 +0800">
-		<title lang="zh">政法报道</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424124000 +0800" stop="20250424132500 +0800">
-		<title lang="zh">观点致胜</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424132500 +0800" stop="20250424141000 +0800">
-		<title lang="zh">专题片</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424141000 +0800" stop="20250424144500 +0800">
-		<title lang="zh">知音人间</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424144500 +0800" stop="20250424175000 +0800">
-		<title lang="zh">养生学+</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424175000 +0800" stop="20250424200000 +0800">
-		<title lang="zh">政法报道</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424200000 +0800" stop="20250424210000 +0800">
-		<title lang="zh">8点开讲</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424210000 +0800" stop="20250424230000 +0800">
-		<title lang="zh">夜线</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424230000 +0800" stop="20250424234000 +0800">
-		<title lang="zh">观点致胜</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424234000 +0800" stop="20250424235500 +0800">
-		<title lang="zh">第1房产</title>
-	</programme>
-	<programme channel="长沙政法" start="20250424235500 +0800" stop="20250424235900 +0800">
-		<title lang="zh">第1家装</title>
-	</programme>
 	<channel id="陕西卫视">
 		<display-name lang="zh">陕西卫视</display-name>
 	</channel>
@@ -10266,6 +10203,9 @@
 	<programme channel="黑莓电影" start="20250424131800 +0800" stop="20250424144900 +0800">
 		<title lang="zh">我们的十年</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250424144900 +0800" stop="20250424161400 +0800">
+		<title lang="zh">反诈风暴之不可饶恕</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -10356,6 +10296,9 @@
 	<programme channel="黑龙江卫视" start="20250424233600 +0800" stop="20250424235900 +0800">
 		<title lang="zh">活力剧场:亮剑</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
 	<channel id="五星体育">
 		<display-name lang="zh">五星体育</display-name>
 	</channel>
@@ -10446,7 +10389,4 @@
 	<programme channel="五星体育" start="20250424234000 +0800" stop="20250424235959 +0800">
 		<title lang="zh">鲁内德雷珀</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 </tv>
