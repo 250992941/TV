@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lhf0554/jx/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-24 22:12:59
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-25 10:15:05
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -377,6 +377,8 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV1
 http://migu.z529.com/migu/923287154.m3u8?migutoken=def1f23de0aaac86d0cd42f501781d0fd5ac5e2c0a644f0bef88cf81bf664672df8ef3210f5f436784b63deb45679185e8c31b5f4985169d47fb7c5f2a7a52147b9430de517020fd7751def5e7
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV1
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
 http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=492
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
@@ -389,6 +391,8 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
 http://migu.z529.com/migu/923287211.m3u8?migutoken=9b28f59e20931b8065e4ed81e8132964a26de3b73f7ea42f3a5ac36ca10df8699a569941d628666f57cc68bd9c94f0b8a20a5384c5b2a9e47e81cb4f7ad00650ccbeff2627d3ef402d76e13f69
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
 http://fb.chucklee.top:10026/itv/5000000011000031126.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
@@ -401,6 +405,8 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
 http://migu.z529.com/migu/923287339.m3u8?migutoken=f8ccb6a1c3a28f5bcc6d926b2568ebb8c11dd8820a1ab9217c2908686a18a7a157b07a28cb28e1fdfd878e196c52559b616c6434295061042a4c0a0c91b5c9ca9716a2ff2c7eb88cf0db72d387
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8?
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="💰央视新影",文化精品
 http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_302?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCO1dXX5lQaafbaysnhe26Dyjczux5g7XU7CGBbNCjn%2BNpTWaL5AGzrNKcas9dXSJCS9EyqZVxmVoVlpMXP0mP3lI9kG3u2E8tybTDTA1E5u7iUwTJRUwrwf4%2Bw0L%2FwOKT3eNyYtJz%2FIA61w5QqGtvKprC45xf2fGT8jfZEHnLOW%2Bd4dVTRX0lJS9GWZyG7yx4H&clientIp=%3A%3Affff%3A31.6.56.132
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="💰央视新影",央视台球
@@ -1699,6 +1705,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009204/1.m3u8
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000007755/index.m3u8?channel-id=bestzb&Contentid=1000000004000007755&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="🏀体育频道",超级体育
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1713110634&from=4&hms_devid=992&online=1713110634&vqe=3
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="🏀体育频道",超级体育
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="🏀体育频道",精品体育
 http://tv.scjyhd.com:4022/udp/239.11.0.134:5140
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="🏀体育频道",精品体育
@@ -1717,6 +1725,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="🏀体育频道",精品体育
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="🏀体育频道",精品体育
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8?
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州竞赛.png" group-title="🏀体育频道",广州竞赛
 http://php.jdshipin.com:8880/gztv.php?id=jingsai#https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁体育.png" group-title="🏀体育频道",辽宁体育
