@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250426050053 +0800">
+<tv date="20250426105633 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10164,6 +10164,15 @@
 	<programme channel="黑莓电影" start="20250426100500 +0800" stop="20250426120100 +0800">
 		<title lang="zh">影</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250426120100 +0800" stop="20250426133400 +0800">
+		<title lang="zh">垫底联盟</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250426133400 +0800" stop="20250426150400 +0800">
+		<title lang="zh">守边人</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250426150400 +0800" stop="20250426162400 +0800">
+		<title lang="zh">我们的岁月</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -10266,6 +10275,9 @@
 	<programme channel="黑龙江卫视" start="20250426233300 +0800" stop="20250426235900 +0800">
 		<title lang="zh">活力剧场:亮剑</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
 	<channel id="五星体育">
 		<display-name lang="zh">五星体育</display-name>
 	</channel>
@@ -10347,7 +10359,4 @@
 	<programme channel="五星体育" start="20250426234000 +0800" stop="20250426235959 +0800">
 		<title lang="zh">湖人森林狼</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 </tv>
