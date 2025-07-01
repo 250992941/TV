@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1综合.png" group-title="🕘️更新时间",2025-07-01 13:53:55
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1综合.png" group-title="🕘️更新时间",2025-07-01 19:17:04
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="ITV央卫视",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
@@ -87,6 +87,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="ITV央卫视",江西卫视
 http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="ITV央卫视",江西卫视
+http://[2409:8087:1a01:df::4027]:80/TVOD/88888888/224/3221225935/main.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="ITV央卫视",河南卫视
 http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="ITV央卫视",河南卫视
@@ -217,6 +219,10 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="ITV央卫视",海南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226922/1.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="ITV央卫视",海南卫视
+http://lu.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="ITV央卫视",海南卫视
+http://live.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="ITV央卫视",海峡卫视
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="ITV影视综艺",CHC影迷电影
