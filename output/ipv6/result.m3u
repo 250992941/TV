@@ -1,28 +1,42 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1综合.png" group-title="🕘️更新时间",2025-07-05 19:10:41
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1综合.png" group-title="🕘️更新时间",2025-07-06 06:59:42
 http://dsj.jshfgy.cn:8880/mgtv/673168121.m3u8
 #EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7国防军事.png" group-title="ITV央卫视",CCTV7国防军事
 http://dsj.jshfgy.cn:8880/mgtv/673168121.m3u8
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7国防军事.png" group-title="ITV央卫视",CCTV7国防军事
+http://datastation.lulucloud.de:35455/mgtv/673168121.m3u8
 #EXTINF:-1 tvg-name="CGTN外语纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN外语纪录.png" group-title="ITV央卫视",CGTN外语纪录
 http://dsj.jshfgy.cn:8880/mgtv/609006487.m3u8
+#EXTINF:-1 tvg-name="CGTN外语纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN外语纪录.png" group-title="ITV央卫视",CGTN外语纪录
+http://datastation.lulucloud.de:35455/mgtv/609006487.m3u8
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿拉伯语.png" group-title="ITV央卫视",CGTN阿拉伯语
 http://dsj.jshfgy.cn:8880/mgtv/609154345.m3u8
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿拉伯语.png" group-title="ITV央卫视",CGTN阿拉伯语
+http://datastation.lulucloud.de:35455/mgtv/609154345.m3u8
 #EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西班牙语.png" group-title="ITV央卫视",CGTN西班牙语
 http://dsj.jshfgy.cn:8880/mgtv/609006450.m3u8
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西班牙语.png" group-title="ITV央卫视",CGTN西班牙语
+http://datastation.lulucloud.de:35455/mgtv/609006450.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="ITV央卫视",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="ITV央卫视",CGTN法语
 http://dsj.jshfgy.cn:8880/mgtv/609006476.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="ITV央卫视",CGTN法语
+http://datastation.lulucloud.de:35455/mgtv/609006476.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="ITV央卫视",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="ITV央卫视",CGTN俄语
 http://dsj.jshfgy.cn:8880/mgtv/609006446.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="ITV央卫视",CGTN俄语
+http://datastation.lulucloud.de:35455/mgtv/609006446.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="ITV央卫视",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="ITV央卫视",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="ITV央卫视",CGTN
 http://dsj.jshfgy.cn:8880/mgtv/609017205.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="ITV央卫视",CGTN
+http://datastation.lulucloud.de:35455/mgtv/609017205.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="ITV央卫视",东方卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="ITV央卫视",东方卫视
@@ -121,6 +135,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="ITV央卫视",河南卫视
 http://dsj.jshfgy.cn:8880/mgtv/790187291.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="ITV央卫视",河南卫视
+http://datastation.lulucloud.de:35455/mgtv/790187291.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="ITV央卫视",陕西卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="ITV央卫视",陕西卫视
@@ -153,6 +169,8 @@ http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226540/1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="ITV央卫视",大湾区卫视
 http://dsj.jshfgy.cn:8880/mgtv/608917627.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="ITV央卫视",大湾区卫视
+http://datastation.lulucloud.de:35455/mgtv/608917627.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="ITV央卫视",湖北卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="ITV央卫视",湖北卫视
@@ -191,6 +209,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://dsj.jshfgy.cn:8880/mgtv/947472500.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="ITV央卫视",吉林卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000004972569.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="ITV央卫视",吉林卫视
+http://datastation.lulucloud.de:35455/mgtv/947472500.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="ITV央卫视",青海卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010111
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="ITV央卫视",青海卫视
@@ -257,6 +277,8 @@ http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="ITV央卫视",海峡卫视
 http://dsj.jshfgy.cn:8880/mgtv/849119120.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="ITV央卫视",海峡卫视
+http://datastation.lulucloud.de:35455/mgtv/849119120.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="ITV影视综艺",CHC影迷电影
 https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="ITV影视综艺",CHC影迷电影
@@ -265,6 +287,8 @@ https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
 http://eastscreen.tv/ooooo.php
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="ITV影视综艺",CHC影迷电影
 http://dsj.jshfgy.cn:8880/mgtv/952383261.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="ITV影视综艺",CHC影迷电影
+http://datastation.lulucloud.de:35455/mgtv/952383261.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="ITV影视综艺",CHC动作电影
 http://z.b.bkpcp.top/m.php
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="ITV影视综艺",CHC动作电影
@@ -279,6 +303,8 @@ http://eastscreen.tv/ooooo.php
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="ITV影视综艺",CHC动作电影
 http://dsj.jshfgy.cn:8880/mgtv/644368714.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="ITV影视综艺",CHC动作电影
+http://datastation.lulucloud.de:35455/mgtv/644368714.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="ITV影视综艺",CHC家庭影院
 http://gat.bkpcp.top/ymg.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="ITV影视综艺",CHC家庭影院
@@ -291,37 +317,75 @@ https://stream1.freetv.fun/chcjia-ting-ying-yuan-17.ctv
 http://eastscreen.tv/ooooo.php
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="ITV影视综艺",CHC家庭影院
 http://dsj.jshfgy.cn:8880/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="ITV影视综艺",CHC家庭影院
+http://datastation.lulucloud.de:35455/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="ITV影视综艺",CHC家庭影院
+http://z.b.bkpcp.top/m.php?id=chcjtyy
 #EXTINF:-1 tvg-name="上视东方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上视东方影视.png" group-title="ITV影视综艺",上视东方影视
 http://dsj.jshfgy.cn:8880/mgtv/617290047.m3u8
+#EXTINF:-1 tvg-name="上视东方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上视东方影视.png" group-title="ITV影视综艺",上视东方影视
+http://datastation.lulucloud.de:35455/mgtv/617290047.m3u8
 #EXTINF:-1 tvg-name="江苏影视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏影视频道.png" group-title="ITV影视综艺",江苏影视频道
 http://dsj.jshfgy.cn:8880/mgtv/626064697.m3u8
+#EXTINF:-1 tvg-name="江苏影视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏影视频道.png" group-title="ITV影视综艺",江苏影视频道
+http://datastation.lulucloud.de:35455/mgtv/626064697.m3u8
 #EXTINF:-1 tvg-name="青春怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青春怀旧剧场.png" group-title="ITV影视综艺",青春怀旧剧场
 http://dsj.jshfgy.cn:8880/mgtv/617432318.m3u8
+#EXTINF:-1 tvg-name="青春怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青春怀旧剧场.png" group-title="ITV影视综艺",青春怀旧剧场
+http://datastation.lulucloud.de:35455/mgtv/617432318.m3u8
 #EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新片放映厅.png" group-title="ITV影视综艺",新片放映厅
 http://dsj.jshfgy.cn:8880/mgtv/619495952.m3u8
+#EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新片放映厅.png" group-title="ITV影视综艺",新片放映厅
+http://datastation.lulucloud.de:35455/mgtv/619495952.m3u8
 #EXTINF:-1 tvg-name="高清大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高清大片.png" group-title="ITV影视综艺",高清大片
 http://dsj.jshfgy.cn:8880/mgtv/629943678.m3u8
+#EXTINF:-1 tvg-name="高清大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高清大片.png" group-title="ITV影视综艺",高清大片
+http://datastation.lulucloud.de:35455/mgtv/629943678.m3u8
 #EXTINF:-1 tvg-name="南方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南方影视.png" group-title="ITV影视综艺",南方影视
 http://dsj.jshfgy.cn:8880/mgtv/614961829.m3u8
+#EXTINF:-1 tvg-name="南方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南方影视.png" group-title="ITV影视综艺",南方影视
+http://datastation.lulucloud.de:35455/mgtv/614961829.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="ITV影视综艺",老故事
 http://dsj.jshfgy.cn:8880/mgtv/884121956.m3u8
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="ITV影视综艺",老故事
+http://datastation.lulucloud.de:35455/mgtv/884121956.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/发现之旅.png" group-title="ITV影视综艺",发现之旅
 http://dsj.jshfgy.cn:8880/mgtv/624878970.m3u8
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/发现之旅.png" group-title="ITV影视综艺",发现之旅
+http://datastation.lulucloud.de:35455/mgtv/624878970.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中学生.png" group-title="ITV影视综艺",中学生
 http://dsj.jshfgy.cn:8880/mgtv/708869532.m3u8
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中学生.png" group-title="ITV影视综艺",中学生
+http://datastation.lulucloud.de:35455/mgtv/708869532.m3u8
 #EXTINF:-1 tvg-name="深度对话" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深度对话.png" group-title="ITV影视综艺",深度对话
 http://dsj.jshfgy.cn:8880/mgtv/625703337.m3u8
+#EXTINF:-1 tvg-name="深度对话" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深度对话.png" group-title="ITV影视综艺",深度对话
+http://datastation.lulucloud.de:35455/mgtv/625703337.m3u8
 #EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/最强综艺趴.png" group-title="ITV影视综艺",最强综艺趴
 http://dsj.jshfgy.cn:8880/mgtv/629942228.m3u8
+#EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/最强综艺趴.png" group-title="ITV影视综艺",最强综艺趴
+http://datastation.lulucloud.de:35455/mgtv/629942228.m3u8
 #EXTINF:-1 tvg-name="新动力量创一流" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动力量创一流.png" group-title="ITV影视综艺",新动力量创一流
 http://dsj.jshfgy.cn:8880/mgtv/713589837.m3u8
+#EXTINF:-1 tvg-name="新动力量创一流" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动力量创一流.png" group-title="ITV影视综艺",新动力量创一流
+http://datastation.lulucloud.de:35455/mgtv/713589837.m3u8
 #EXTINF:-1 tvg-name="五环传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五环传奇.png" group-title="ITV咪咕体育",五环传奇
 http://dsj.jshfgy.cn:8880/mgtv/707671890.m3u8
+#EXTINF:-1 tvg-name="五环传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五环传奇.png" group-title="ITV咪咕体育",五环传奇
+http://datastation.lulucloud.de:35455/mgtv/707671890.m3u8
 #EXTINF:-1 tvg-name="赛事最经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事最经典.png" group-title="ITV咪咕体育",赛事最经典
 http://dsj.jshfgy.cn:8880/mgtv/646596895.m3u8
+#EXTINF:-1 tvg-name="赛事最经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赛事最经典.png" group-title="ITV咪咕体育",赛事最经典
+http://datastation.lulucloud.de:35455/mgtv/646596895.m3u8
 #EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/掼蛋精英赛.png" group-title="ITV咪咕体育",掼蛋精英赛
 http://dsj.jshfgy.cn:8880/mgtv/631354620.m3u8
+#EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/掼蛋精英赛.png" group-title="ITV咪咕体育",掼蛋精英赛
+http://datastation.lulucloud.de:35455/mgtv/631354620.m3u8
 #EXTINF:-1 tvg-name="体坛名栏汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/体坛名栏汇.png" group-title="ITV咪咕体育",体坛名栏汇
 http://dsj.jshfgy.cn:8880/mgtv/629943305.m3u8
+#EXTINF:-1 tvg-name="体坛名栏汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/体坛名栏汇.png" group-title="ITV咪咕体育",体坛名栏汇
+http://datastation.lulucloud.de:35455/mgtv/629943305.m3u8
 #EXTINF:-1 tvg-name="咪咕24小时体育台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕24小时体育台.png" group-title="ITV咪咕体育",咪咕24小时体育台
 http://dsj.jshfgy.cn:8880/mgtv/654102378.m3u8
+#EXTINF:-1 tvg-name="咪咕24小时体育台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕24小时体育台.png" group-title="ITV咪咕体育",咪咕24小时体育台
+http://datastation.lulucloud.de:35455/mgtv/654102378.m3u8
