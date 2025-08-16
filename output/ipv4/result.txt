@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-16 19:12:53,http://223.167.209.254:35455/nptv/cetv1.m3u8
+2025-08-17 07:10:32,http://223.167.209.254:35455/nptv/cetv1.m3u8
 
 ITV央卫视,#genre#
 中国教育电视台-NPTV,http://223.167.209.254:35455/nptv/cetv1.m3u8
@@ -72,6 +72,7 @@ cgtn-NPTV,http://8.148.5.88:35455/nptv/cgtn.m3u8
 cgtn-NPTV,http://60.204.222.226:35455/nptv/cgtn.m3u8
 cgtn-NPTV,http://42.194.132.65:35455/nptv/cgtn.m3u8
 cgtn-NPTV,http://222.186.39.21:35466/nptv/cgtn.m3u8
+cgtnfr-NPTV,http://223.167.209.254:35455/nptv/cgtnfr.m3u8
 cgtnfr-NPTV,http://guyue0227.eicp.net:35455/nptv/cgtnfr.m3u8
 cgtnfr-NPTV,http://198.23.236.148:35455/nptv/cgtnfr.m3u8
 cgtnfr-NPTV,http://81.70.10.196:35455/nptv/cgtnfr.m3u8
@@ -81,7 +82,6 @@ cgtnfr-NPTV,http://8.148.5.88:35455/nptv/cgtnfr.m3u8
 cgtnfr-NPTV,http://60.204.222.226:35455/nptv/cgtnfr.m3u8
 cgtnfr-NPTV,http://42.194.132.65:35455/nptv/cgtnfr.m3u8
 cgtnfr-NPTV,http://222.186.39.21:35466/nptv/cgtnfr.m3u8
-cgtnfr-NPTV,http://101.33.125.212:1008/nptv/cgtnfr.m3u8
 cgtnru-NPTV,http://223.167.209.254:35455/nptv/cgtnru.m3u8
 cgtnru-NPTV,http://guyue0227.eicp.net:35455/nptv/cgtnru.m3u8
 cgtnru-NPTV,http://198.23.236.148:35455/nptv/cgtnru.m3u8
@@ -114,18 +114,14 @@ CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTe
 湖南卫视-NPTV,http://42.194.132.65:35455/nptv/hunan.m3u8
 湖南卫视-NPTV,http://222.186.39.21:35466/nptv/hunan.m3u8
 东方卫视,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
-东方卫视,http://111.61.236.247:9081/hls/40/index.m3u8
-东方卫视,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8
-广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
-广东卫视,http://113.25.252.226:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://223.241.247.214:9901/tsfile/live/1011_1.m3u8
-广东卫视,http://1.197.82.76:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
 江西卫视,http://drive.mxmy.net:8888/udp/239.3.1.123:8164
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-湖北卫视,http://113.25.252.226:9901/tsfile/live/0132_1.m3u8
+湖北卫视,http://182.113.6.210:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
@@ -430,6 +426,7 @@ CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTe
 甘肃卫视-NPTV,http://60.204.222.226:35455/nptv/gansu.m3u8
 甘肃卫视-NPTV,http://42.194.132.65:35455/nptv/gansu.m3u8
 甘肃卫视-NPTV,http://222.186.39.21:35466/nptv/gansu.m3u8
+云南卫视-NPTV,http://223.167.209.254:35455/nptv/yunnan.m3u8
 云南卫视-NPTV,http://guyue0227.eicp.net:35455/nptv/yunnan.m3u8
 云南卫视-NPTV,http://198.23.236.148:35455/nptv/yunnan.m3u8
 云南卫视-NPTV,http://81.70.10.196:35455/nptv/yunnan.m3u8
@@ -439,7 +436,6 @@ CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTe
 云南卫视-NPTV,http://60.204.222.226:35455/nptv/yunnan.m3u8
 云南卫视-NPTV,http://42.194.132.65:35455/nptv/yunnan.m3u8
 云南卫视-NPTV,http://222.186.39.21:35466/nptv/yunnan.m3u8
-云南卫视-NPTV,http://101.33.125.212:1008/nptv/yunnan.m3u8
 
 ITV影视综艺,#genre#
 第一剧场-NPTV,http://223.167.209.254:35455/nptv/dyjc.m3u8
@@ -501,16 +497,9 @@ ITV咪咕体育,#genre#
 咪咕视频_8M1080_咪视通-12,http://154.17.234.26:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-13,http://47.79.36.209:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-13,http://154.17.234.26:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-14,http://222.186.41.26:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-14,http://47.79.36.209:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-14,http://222.186.41.26:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-14,http://154.17.234.26:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-14,http://192.210.207.171:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-14,http://223.167.209.254:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-14,http://180.213.172.146:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-14,http://guyue0227.eicp.net:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-14,http://198.23.236.148:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-14,http://81.70.10.196:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-14,http://117.9.208.32:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-15,http://47.79.36.209:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-15,http://154.17.234.26:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-16,http://47.79.36.209:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
@@ -526,13 +515,13 @@ ITV咪咕体育,#genre#
 咪咕视频_8M1080_咪视通-22,http://47.79.36.209:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-23,http://47.79.36.209:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-24,http://47.79.36.209:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-24,http://192.210.207.171:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-24,http://154.17.234.26:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-24,http://192.210.207.171:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-25,http://47.79.36.209:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-25,http://222.186.41.26:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-26,http://47.79.36.209:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-26,http://154.17.234.26:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-26,http://222.186.41.26:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-26,http://154.17.234.26:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-26,http://192.210.207.171:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-27,http://47.79.36.209:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-27,http://154.17.234.26:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
@@ -564,9 +553,9 @@ ITV咪咕体育,#genre#
 咪咕视频_8M1080_咪视通-39,http://154.17.234.26:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-39,http://192.210.207.171:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-40,http://154.17.234.26:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-41,http://47.79.36.209:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-41,http://222.186.41.26:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-41,http://154.17.234.26:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-41,http://47.79.36.209:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-41,http://192.210.207.171:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-42,http://47.79.36.209:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-42,http://154.17.234.26:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
