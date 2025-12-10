@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1综合.png" group-title="🕘️更新时间",2025-12-10 08:07:27
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1综合.png" group-title="🕘️更新时间",2025-12-10 20:19:01
 http://dsj.jshfgy.cn:8880/mgtv/673168121.m3u8
 #EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7国防军事.png" group-title="ITV央卫视",CCTV7国防军事
 http://dsj.jshfgy.cn:8880/mgtv/673168121.m3u8
@@ -93,6 +93,8 @@ http://8.148.5.88:35455/nptv/cgtndoc.m3u8
 http://227w9f5104.zicp.fun:35455/nptv/cgtndoc.m3u8
 #EXTINF:-1 tvg-name="cgtndoc-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cgtndoc-NPTV.png" group-title="ITV央卫视",cgtndoc-NPTV
 http://222.186.39.21:35466/nptv/cgtndoc.m3u8
+#EXTINF:-1 tvg-name="cgtn-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cgtn-NPTV.png" group-title="ITV央卫视",cgtn-NPTV
+http://guyue0227.eicp.net:35455/nptv/cgtn.m3u8
 #EXTINF:-1 tvg-name="cgtn-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cgtn-NPTV.png" group-title="ITV央卫视",cgtn-NPTV
 http://81.70.10.196:35455/nptv/cgtn.m3u8
 #EXTINF:-1 tvg-name="cgtn-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cgtn-NPTV.png" group-title="ITV央卫视",cgtn-NPTV
@@ -242,7 +244,7 @@ https://mursor.ottiptv.cc/migu/609006446.m3u8?migutoken=35c7c5fbbf67e3b59d918698
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="ITV央卫视",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="ITV央卫视",CGTN
-https://play.kankanlive.com/live/1698423645566913.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="ITV央卫视",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="ITV央卫视",CGTN
