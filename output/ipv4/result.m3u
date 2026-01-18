@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1综合.png" group-title="🕘️更新时间",2026-01-17 20:20:42
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1综合.png" group-title="🕘️更新时间",2026-01-18 08:19:17
 http://guyue0227.eicp.net:35455/nptv/cetv1.m3u8
 #EXTINF:-1 tvg-name="中国教育电视台-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国教育电视台-NPTV.png" group-title="ITV央卫视",中国教育电视台-NPTV
 http://guyue0227.eicp.net:35455/nptv/cetv1.m3u8
@@ -134,9 +134,9 @@ http://222.186.39.21:35466/nptv/hunan.m3u8
 #EXTINF:-1 tvg-name="湖南卫视-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视-NPTV.png" group-title="ITV央卫视",湖南卫视-NPTV
 http://8.138.214.88:35455/nptv/hunan.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="ITV央卫视",东方卫视
-http://23.237.228.134/live6/dongnan.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="ITV央卫视",东方卫视
 http://69.30.246.194/live/dfws.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="ITV央卫视",东方卫视
+http://23.237.228.134/live6/dongnan.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="ITV央卫视",江苏卫视
 http://69.30.246.194/live/jsws.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="ITV央卫视",广东卫视
@@ -155,8 +155,6 @@ http://23.237.228.134/live8/jilin.m3u8
 http://23.237.228.134/live8/qinghai.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="ITV央卫视",东南卫视
 http://23.237.228.134/live8/gansu.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="ITV央卫视",东南卫视
-http://btjg.net:809/hls/44/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视-NPTV.png" group-title="ITV央卫视",北京卫视-NPTV
 http://guyue0227.eicp.net:35455/nptv/beijing.m3u8
 #EXTINF:-1 tvg-name="北京卫视-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视-NPTV.png" group-title="ITV央卫视",北京卫视-NPTV
@@ -397,6 +395,8 @@ http://8.148.5.88:35455/nptv/sichuan.m3u8
 http://222.186.39.21:35466/nptv/sichuan.m3u8
 #EXTINF:-1 tvg-name="四川卫视-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视-NPTV.png" group-title="ITV央卫视",四川卫视-NPTV
 http://8.138.214.88:35455/nptv/sichuan.m3u8
+#EXTINF:-1 tvg-name="广西卫视-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视-NPTV.png" group-title="ITV央卫视",广西卫视-NPTV
+http://guyue0227.eicp.net:35455/nptv/guangxi.m3u8
 #EXTINF:-1 tvg-name="广西卫视-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视-NPTV.png" group-title="ITV央卫视",广西卫视-NPTV
 http://81.70.10.196:35455/nptv/guangxi.m3u8
 #EXTINF:-1 tvg-name="广西卫视-NPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视-NPTV.png" group-title="ITV央卫视",广西卫视-NPTV
