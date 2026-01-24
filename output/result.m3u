@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1综合.png" group-title="🕘️更新时间",2026-01-23 20:21:26
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1综合.png" group-title="🕘️更新时间",2026-01-24 08:12:33
 http://dsj.jshfgy.cn:8880/mgtv/673168121.m3u8
 #EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7国防军事.png" group-title="ITV央卫视",CCTV7国防军事
 http://dsj.jshfgy.cn:8880/mgtv/673168121.m3u8
@@ -926,6 +926,8 @@ https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=8ed5d424da20e1e8ee7c400a
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="ITV影视综艺",CHC影迷电影
 https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=6dabbe000f078f1f4d44ffecfc6431d5982b4480d5d21ddeb982ff32767c7004010349d3da8a634f1dab1190ad05d879b163ee7fdc9e75ad2b6980470037c7fc2b43ca11a9fa491c2714fa1cfb
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="ITV影视综艺",CHC动作电影
+http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="ITV影视综艺",CHC动作电影
 http://z.b.bkpcp.top/m.php
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="ITV影视综艺",CHC动作电影
 http://goo.bkpcp.top/mg/dzdy
@@ -943,8 +945,6 @@ http://dsj.jshfgy.cn:8880/mgtv/644368714.m3u8
 http://datastation.lulucloud.de:35455/mgtv/644368714.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="ITV影视综艺",CHC动作电影
 https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=a9595bc959dc772fb1c1dfa7fb3c22a9627e400716b68e98eb7334c5afb9fcf1c0177180b0e90a24093caf73f070307406eddc5fbcfbf5874f3acd51f3e923db99679ba8503a6323da360a6950
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="ITV影视综艺",CHC动作电影
-https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=3afe87686e941f07bad4e312a51183937d9298aa05fe1e6f8019c52a35e4b4696208df0617ba900b5acbc05be9502ee65e02e85b3cbb5a2a570948740bc6395202c63a1fed6ad779cc28b40245
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="ITV影视综艺",CHC家庭影院
 http://gat.bkpcp.top/ymg.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="ITV影视综艺",CHC家庭影院
