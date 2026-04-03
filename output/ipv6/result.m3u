@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-01 13:12:17
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-03 11:45:28
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -199,6 +199,8 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="📺央视频道",CETV-2
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226432/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="📺央视频道",CETV-2
+https://itv.tvbj.dpdns.org/proxy.php/live/CETV-2_4000.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📺央视频道",CETV-3
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="📺央视频道",CETV-4
@@ -209,6 +211,8 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="📺央视频道",CETV-4
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226414/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="📺央视频道",CETV-4
+https://itv.tvbj.dpdns.org/proxy.php/live/CETV-4H264_2000.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="📡卫视频道",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="23" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="📡卫视频道",凤凰资讯
