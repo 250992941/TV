@@ -2,12 +2,14 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+https://shrill-rain-6c13.luohaifeng0554.workers.dev/
 https://stiptv01.cc.cd/zbds_ipv4.m3u
 https://sttv-c3j.pages.dev/ZB.txt
 https://raw.githubusercontent.com/250992941/tv2/refs/heads/main/bbxx.m3u
 https://sttv-c3j.pages.dev/FH.txt
 https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
 http://43.251.226.110:9991/v5xheg
+
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
