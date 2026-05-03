@@ -2,6 +2,8 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+# https://ge.html-5.me//ii/%E9%BB%84%E8%9A%82%E8%9A%81%E5%85%88%E9%94%8B%E6%8E%A8%E6%B5%81%E6%BA%90.txt?i=1
+# https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u
 https://stiptv01.cc.cd/txt/youhun.txt
 http://43.251.226.110:9991/v5xheg
 http://iptv.4666888.xyz/FYTV.txt
@@ -13,10 +15,8 @@ https://sttv-c3j.pages.dev/FH.txt
 https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
 https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u
 http://wangziduoqing.com/yuan/zb.txt
-https://sttviptv.de5.net/txt/o_cn.txt
 
-# https://ge.html-5.me//ii/%E9%BB%84%E8%9A%82%E8%9A%81%E5%85%88%E9%94%8B%E6%8E%A8%E6%B5%81%E6%BA%90.txt?i=1
-# https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u
+# https://sttviptv.de5.net/txt/o_cn.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
