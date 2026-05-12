@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-12 07:51:02
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-12 21:20:50
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -207,6 +207,8 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OVHZIq&tk=guR8JwEV2mvb
 #EXTINF:-1 tvg-id="21" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📺央视频道",CETV-3
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ILYmJr&tk=k3hFpFMaRMai
+#EXTINF:-1 tvg-id="21" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📺央视频道",CETV-3
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1C2Zm0&tk=WBvMBe1apgzu
 #EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="📺央视频道",CETV-4
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="📺央视频道",CETV-4
@@ -635,6 +637,8 @@ http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/1214.m3u8
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5yDeDv&tk=guR8JwEV2mvb
 #EXTINF:-1 tvg-id="63" tvg-name="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="☘️广东频道",广东民生
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UnzYn7&tk=k3hFpFMaRMai
+#EXTINF:-1 tvg-id="63" tvg-name="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="☘️广东频道",广东民生
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aonsRZ&tk=WBvMBe1apgzu
 #EXTINF:-1 tvg-id="64" tvg-name="大湾区卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
 https://mgtv.ottiptv.cc/mg/608917627.m3u8?userid=5559462299&sign=8826b29bb47699938737e27770a85444e208d638a7fb2a6e4327aa1005089405caf04788565a2a4ae6c8a9c6b5b6374c76f4b1efde23e0655e0a357981bed5bd679b9b7644f9c3826af09a12735b09eb5e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 #EXTINF:-1 tvg-id="64" tvg-name="大湾区卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
@@ -653,6 +657,8 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=H4JBX1&tk=guR8JwEV2mvb
 #EXTINF:-1 tvg-id="66" tvg-name="湖南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南娱乐.png" group-title="☘️湖南频道",湖南娱乐
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UFR2L2&tk=k3hFpFMaRMai
+#EXTINF:-1 tvg-id="66" tvg-name="湖南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南娱乐.png" group-title="☘️湖南频道",湖南娱乐
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nKs1UJ&tk=WBvMBe1apgzu
 #EXTINF:-1 tvg-id="67" tvg-name="湖南电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南电影.png" group-title="☘️湖南频道",湖南电影
 http://php.jdshipin.com:8880/iptv.php
 #EXTINF:-1 tvg-id="67" tvg-name="湖南电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南电影.png" group-title="☘️湖南频道",湖南电影
@@ -711,6 +717,8 @@ http://php.jdshipin.com/smt.php?id=inews_twn
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AKhWxU&tk=guR8JwEV2mvb
 #EXTINF:-1 tvg-id="75" tvg-name="中天新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻台.png" group-title="🌊港台频道",中天新闻台
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5v7I0F&tk=k3hFpFMaRMai
+#EXTINF:-1 tvg-id="75" tvg-name="中天新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻台.png" group-title="🌊港台频道",中天新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dPTFMB&tk=WBvMBe1apgzu
 #EXTINF:-1 tvg-id="76" tvg-name="寰宇新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻台.png" group-title="🌊港台频道",寰宇新闻台
 https://smt.goiptv.us.ci/huanyuxinwen_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港台频道",翡翠台
