@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-13 08:02:10
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-13 21:03:35
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -209,6 +209,8 @@ http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OVHZIq&tk=guR8JwEV2mvb
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ILYmJr&tk=k3hFpFMaRMai
 #EXTINF:-1 tvg-id="21" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📺央视频道",CETV-3
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1C2Zm0&tk=WBvMBe1apgzu
+#EXTINF:-1 tvg-id="21" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📺央视频道",CETV-3
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r8fXR1&tk=BwDCMNYiLmOb
 #EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="📺央视频道",CETV-4
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="📺央视频道",CETV-4
@@ -659,6 +661,8 @@ http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=H4JBX1&tk=guR8JwEV2mvb
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UFR2L2&tk=k3hFpFMaRMai
 #EXTINF:-1 tvg-id="66" tvg-name="湖南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南娱乐.png" group-title="☘️湖南频道",湖南娱乐
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nKs1UJ&tk=WBvMBe1apgzu
+#EXTINF:-1 tvg-id="66" tvg-name="湖南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南娱乐.png" group-title="☘️湖南频道",湖南娱乐
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uGjxIj&tk=BwDCMNYiLmOb
 #EXTINF:-1 tvg-id="67" tvg-name="湖南电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南电影.png" group-title="☘️湖南频道",湖南电影
 http://php.jdshipin.com:8880/iptv.php
 #EXTINF:-1 tvg-id="67" tvg-name="湖南电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南电影.png" group-title="☘️湖南频道",湖南电影
@@ -719,6 +723,8 @@ http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AKhWxU&tk=guR8JwEV2mvb
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5v7I0F&tk=k3hFpFMaRMai
 #EXTINF:-1 tvg-id="75" tvg-name="中天新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻台.png" group-title="🌊港台频道",中天新闻台
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dPTFMB&tk=WBvMBe1apgzu
+#EXTINF:-1 tvg-id="75" tvg-name="中天新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻台.png" group-title="🌊港台频道",中天新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5sDf4F&tk=BwDCMNYiLmOb
 #EXTINF:-1 tvg-id="76" tvg-name="寰宇新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻台.png" group-title="🌊港台频道",寰宇新闻台
 https://smt.goiptv.us.ci/huanyuxinwen_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港台频道",翡翠台
