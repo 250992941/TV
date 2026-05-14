@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-14 07:41:29
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-14 20:38:39
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -725,6 +725,8 @@ http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5v7I0F&tk=k3hFpFMaRMai
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dPTFMB&tk=WBvMBe1apgzu
 #EXTINF:-1 tvg-id="75" tvg-name="中天新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻台.png" group-title="🌊港台频道",中天新闻台
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5sDf4F&tk=BwDCMNYiLmOb
+#EXTINF:-1 tvg-id="75" tvg-name="中天新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻台.png" group-title="🌊港台频道",中天新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nJSZ3o&tk=TKmETvVWxoes
 #EXTINF:-1 tvg-id="76" tvg-name="寰宇新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻台.png" group-title="🌊港台频道",寰宇新闻台
 https://smt.goiptv.us.ci/huanyuxinwen_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港台频道",翡翠台
