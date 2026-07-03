@@ -273,19 +273,17 @@
         </div>
     </header>
     <div class="subhead">
-        <span>📅 赛程基于官方阶段 · 模拟实时比分</span>
-        <div class="date-nav">
-            <span class="date-badge active">📆 今日 6/28</span>
-            <span class="date-badge">📆 明日 6/29</span>
-            <span class="date-badge">📆 后天 6/30</span>
+        <span>📅 基于设备系统日期 • 实时更新</span>
+        <div class="date-nav" id="dateNavContainer">
+            <!-- 动态生成 今天/明天/后天 -->
         </div>
     </div>
 
     <div class="grid">
-        <!-- 左栏：全部比赛 (包含实时比分) -->
+        <!-- 左栏：全部比赛 -->
         <div class="card">
             <div class="card-header">
-                <h2><span class="live-indicator" style="width:10px;height:10px;"></span> 进程 · 今日 & 未来2天</h2>
+                <h2><span class="live-indicator" style="width:10px;height:10px;"></span> 赛程 · 近3天</h2>
                 <span class="badge" id="matchCount">0 场</span>
             </div>
             <div class="match-list" id="allMatchesContainer">
@@ -293,7 +291,7 @@
             </div>
         </div>
 
-        <!-- 右栏：AI 比分建议 (重点比赛，含实时比分参考) -->
+        <!-- 右栏：AI 比分建议 -->
         <div class="card">
             <div class="card-header">
                 <h2>🤖 AI 多模型预测</h2>
@@ -305,16 +303,34 @@
         </div>
     </div>
     <div class="footer-note">
-        <span>⚡ 模拟2026世界杯 · 动态刷新比分 & AI预测 (每15秒更新)</span>
+        <span>⚡ 模拟2026世界杯 · 动态刷新比分 & AI预测 (每15秒)</span>
         <span class="refresh-tip">上次更新: <span id="lastUpdateTime">--</span></span>
     </div>
 </div>
 <script>
     (function() {
-        // ----- 基础配置 -----
-        const todayString = "2026-06-28";
-        const tomorrowString = "2026-06-29";
-        const dayAfterString = "2026-06-30";
+        // ----- 获取真实的今日日期 (YYYY-MM-DD) -----
+        function getTodayString() {
+            const d = new Date();
+            const year = d.getFullYear();
+            const month = String(d.getMonth() + 1).padStart(2, '0');
+            const day = String(d.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        function getDatePlusDays(baseDate, days) {
+            const d = new Date(baseDate);
+            d.setDate(d.getDate() + days);
+            const year = d.getFullYear();
+            const month = String(d.getMonth() + 1).padStart(2, '0');
+            const day = String(d.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        // 自动计算今日/明日/后日
+        const todayString = getTodayString();
+        const tomorrowString = getDatePlusDays(todayString, 1);
+        const dayAfterString = getDatePlusDays(todayString, 2);
 
         // 球队旗子映射
         const flags = {
@@ -329,7 +345,7 @@
         };
         const defaultFlag = "🏳️";
 
-        // 基础比赛定义 (不含比分)
+        // 基础比赛定义 (基于真实日期)
         const baseMatches = [
             { id: 'm1', date: todayString, time: "18:00", team1: "巴西", team2: "德国", stage: "小组赛 A组" },
             { id: 'm2', date: todayString, time: "21:00", team1: "阿根廷", team2: "法国", stage: "小组赛 B组" },
@@ -361,64 +377,49 @@
             ]}
         ];
 
-        // ----- 状态: 比分 & 是否进行中/已结束 (模拟) -----
+        // ----- 状态: 比分 & 模拟状态 -----
         let matchStates = {};
 
         function initMatchStates() {
             baseMatches.forEach(m => {
-                // 随机初始化比分 0-3
                 const s1 = Math.floor(Math.random() * 4);
                 const s2 = Math.floor(Math.random() * 4);
-                // 今日比赛 50% 概率进行中, 否则已结束；明日后天为 scheduled
                 let status = 'scheduled';
+                // 今天比赛模拟 live 或 finished
                 if (m.date === todayString) {
                     status = Math.random() > 0.4 ? 'live' : 'finished';
-                } else if (m.date === tomorrowString) {
-                    status = 'scheduled'; 
                 } else {
                     status = 'scheduled';
                 }
-                // 保证至少一场 live
                 matchStates[m.id] = { score1: s1, score2: s2, status };
             });
-            // 确保 m1 是 live (巴西vs德国)
-            if (matchStates['m1']) {
-                matchStates['m1'].status = 'live';
-                matchStates['m1'].score1 = 1; matchStates['m1'].score2 = 1;
-            }
-            if (matchStates['m2']) {
-                matchStates['m2'].status = 'live';
-                matchStates['m2'].score1 = 2; matchStates['m2'].score2 = 2;
-            }
+            // 保证至少2场live
+            if (matchStates['m1']) { matchStates['m1'].status = 'live'; matchStates['m1'].score1 = 1; matchStates['m1'].score2 = 1; }
+            if (matchStates['m2']) { matchStates['m2'].status = 'live'; matchStates['m2'].score1 = 2; matchStates['m2'].score2 = 2; }
         }
         initMatchStates();
 
-        // 模拟实时更新：随机变化比分 (每15秒)
+        // 模拟实时变化
         function simulateLiveUpdates() {
             baseMatches.forEach(m => {
                 const state = matchStates[m.id];
                 if (state.status === 'live') {
-                    // 随机增减0或1，保证非负
                     let delta1 = Math.random() > 0.7 ? 1 : 0;
                     let delta2 = Math.random() > 0.7 ? 1 : 0;
-                    if (Math.random() > 0.85) delta1 = -1; // 偶尔乌龙/取消
+                    if (Math.random() > 0.85) delta1 = -1;
                     if (Math.random() > 0.85) delta2 = -1;
-                    state.score1 = Math.max(0, state.score1 + delta1);
-                    state.score2 = Math.max(0, state.score2 + delta2);
-                    // 封顶5
-                    if (state.score1 > 5) state.score1 = 5;
-                    if (state.score2 > 5) state.score2 = 5;
+                    state.score1 = Math.max(0, Math.min(5, state.score1 + delta1));
+                    state.score2 = Math.max(0, Math.min(5, state.score2 + delta2));
                 }
-                // 极小概率 将 scheduled 变成 live (模拟开赛)
+                // 极小概率 scheduled -> live
                 if (state.status === 'scheduled' && Math.random() > 0.95) {
                     state.status = 'live';
                 }
-                // 将部分live变为finished
+                // live -> finished
                 if (state.status === 'live' && Math.random() > 0.9) {
                     state.status = 'finished';
                 }
             });
-            // 确保至少两场live
             let liveCount = baseMatches.filter(m => matchStates[m.id].status === 'live').length;
             if (liveCount < 2) {
                 const scheduled = baseMatches.filter(m => matchStates[m.id].status === 'scheduled');
@@ -431,6 +432,16 @@
 
         function getFlag(team) {
             return flags[team] || defaultFlag;
+        }
+
+        // 格式化日期显示
+        function formatDateLabel(dateStr) {
+            const d = new Date(dateStr);
+            const month = d.getMonth() + 1;
+            const day = d.getDate();
+            if (dateStr === todayString) return `今日 · ${month}月${day}日`;
+            if (dateStr === tomorrowString) return `明日 · ${month}月${day}日`;
+            return `后日 · ${month}月${day}日`;
         }
 
         // 渲染全部比赛
@@ -480,21 +491,19 @@
                 return groupHtml;
             }
 
-            html += renderGroup('今日 · 6月28日', todayMatches);
-            html += renderGroup('明日 · 6月29日', tomorrowMatches);
-            html += renderGroup('后天 · 6月30日', dayAfterMatches);
+            html += renderGroup(formatDateLabel(todayString), todayMatches);
+            html += renderGroup(formatDateLabel(tomorrowString), tomorrowMatches);
+            html += renderGroup(formatDateLabel(dayAfterString), dayAfterMatches);
             if (!html) html = `<div class="no-matches">⚽ 暂无安排比赛</div>`;
             container.innerHTML = html;
             document.getElementById('matchCount').innerText = baseMatches.length + ' 场';
         }
 
-        // 渲染AI预测 (与实时比分联动)
+        // 渲染AI预测
         function renderAiSuggestions() {
             const container = document.getElementById('aiSuggestionsContainer');
             let html = '';
-            // 使用预测列表，但显示实时比分 (如果比赛存在)
             aiPredictions.forEach(item => {
-                // 找到对应比赛 (根据队伍)
                 const match = baseMatches.find(m => m.team1 === item.team1 && m.team2 === item.team2);
                 let state = null;
                 let isLive = false, isFinished = false;
@@ -510,7 +519,11 @@
                     }
                 }
                 const date = match ? match.date : '';
-                const dateLabel = date === todayString ? '今日' : (date === tomorrowString ? '明日' : '后天');
+                let dateLabel = '';
+                if (date === todayString) dateLabel = '今日';
+                else if (date === tomorrowString) dateLabel = '明日';
+                else if (date === dayAfterString) dateLabel = '后日';
+                else dateLabel = date;
                 const statusIcon = isLive ? '🔴' : (isFinished ? '✅' : '⏳');
 
                 html += `
@@ -535,9 +548,24 @@
             container.innerHTML = html;
         }
 
+        // 更新日期导航
+        function renderDateNav() {
+            const container = document.getElementById('dateNavContainer');
+            const dates = [
+                { label: `今日 ${new Date(todayString).getDate()}日`, value: todayString },
+                { label: `明日 ${new Date(tomorrowString).getDate()}日`, value: tomorrowString },
+                { label: `后日 ${new Date(dayAfterString).getDate()}日`, value: dayAfterString }
+            ];
+            container.innerHTML = dates.map((d, idx) => {
+                const active = idx === 0 ? ' active' : '';
+                return `<span class="date-badge${active}">📆 ${d.label}</span>`;
+            }).join('');
+        }
+
         function updateUI() {
             renderAllMatches();
             renderAiSuggestions();
+            renderDateNav();
             document.getElementById('lastUpdateTime').innerText = new Date().toLocaleTimeString('zh-CN', { hour12: false });
         }
 
@@ -545,19 +573,12 @@
         setInterval(() => {
             simulateLiveUpdates();
             updateUI();
-        }, 15000); // 15秒
+        }, 15000);
 
         // 初次渲染
         updateUI();
-
-        // 日期切换高亮 (视觉)
-        document.querySelectorAll('.date-badge').forEach((badge, idx) => {
-            badge.addEventListener('click', function(e) {
-                document.querySelectorAll('.date-badge').forEach(b => b.classList.remove('active'));
-                this.classList.add('active');
-            });
-        });
     })();
 </script>
 </body>
 </html>
+
